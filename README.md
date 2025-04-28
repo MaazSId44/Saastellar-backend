@@ -1,5 +1,5 @@
 
-# Backend - Real-Time Transcription Server
+# SaasTellar - Real-Time Transcription Server
 
 This is the backend server built with **Node.js** and **WebSocket** to provide real-time audio transcription using **Deepgram API**.
 
@@ -50,12 +50,12 @@ DEEPGRAM_API_KEY=""
 ### 4. Running the Server
 
 ```bash
-npm start
+npm run dev
 ```
 or
 
 ```bash
-node index.js
+node server.js
 ```
 
 ---
